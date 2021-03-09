@@ -4,3 +4,5 @@
 JavaScript là một ngôn ngữ chương trình thông dịch, nhẹ.
 
 JavaScript không có bất kỳ khả năng đa luồng hoặc đa xử lý.
+
+01
